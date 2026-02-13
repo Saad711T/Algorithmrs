@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: _site
+website:
+  title: "Algorithmrs"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: blog.qmd
+        text: Blog
+format:
+  html:
+    lang: ar
+    dir: rtl
+    theme: darkly
+    css: styles.css
