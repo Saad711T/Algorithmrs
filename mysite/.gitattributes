@@ -1,0 +1,6 @@
+*.qmd linguist-language=R
+mysite/* linguist-generated
+
+*.qmd linguist-detectable=true
+*.qmd linguist-language=r
+*.qmd text
