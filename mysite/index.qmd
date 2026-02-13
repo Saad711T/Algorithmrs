@@ -2,3 +2,16 @@
 title: "Home Page"
 ---
 الصفحة الرئيسية
+
+مدونة عربية تهتم بالخوارزميات في علم البيانات , مع تطبيقات علمية وعملية وإستخدامات خوارزمية خارج علوم الحاسب في مجالات مثل الفيزياء والرياضيات والمعلوماتية الحيوية وحتى الجيولوجيا .
+
+### المزيد
+
+لدي مدونة شبه متكاملة عن الذكاء الاصطناعي
+
+[للإطلاع عليها](https://saadaiblog.netlify.app)
+
+
+|   |  | |
+|--------|--------|--------|
+| ![1](https://saadaiblog.netlify.app/blog/images/hillclimbing.png) | ![2](https://saadaiblog.netlify.app/blog/images/regression.png) |![3](https://saadaiblog.netlify.app/blog/images/function.png) |
