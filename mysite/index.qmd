@@ -3,7 +3,10 @@ title: "Home Page"
 ---
 الصفحة الرئيسية
 
+
 مدونة عربية تهتم بالخوارزميات في علم البيانات , مع تطبيقات علمية وعملية وإستخدامات خوارزمية خارج علوم الحاسب في مجالات مثل الفيزياء والرياضيات والمعلوماتية الحيوية وحتى الجيولوجيا .
+
+
 
 ### المزيد
 
@@ -15,3 +18,9 @@ title: "Home Page"
 |   |  | |
 |--------|--------|--------|
 | ![1](https://saadaiblog.netlify.app/blog/images/hillclimbing.png) | ![2](https://saadaiblog.netlify.app/blog/images/regression.png) |![3](https://saadaiblog.netlify.app/blog/images/function.png) |
+
+<hr>
+
+<footer class="footer">
+  <p style="text-align: center; font-size: 0.9rem; color: #888;">&copy; 2026 0xSaad. All rights reserved.</p>
+</footer>
