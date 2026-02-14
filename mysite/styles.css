@@ -13,15 +13,15 @@ body {
 
 #quarto-header .navbar {
   background: linear-gradient(90deg, #0a0f1a, #111827);
-  border-bottom: 2px solid #00ff88;
-  box-shadow: 0 0 15px rgba(0, 255, 136, 0.2);
+  border-bottom: 2px solid #27aee8;
+  box-shadow: 0 0 15px rgba(14, 158, 230, 0.4);
 }
 
 .navbar-title {
   font-weight: bold;
   font-size: 1.3rem;
   letter-spacing: 2px;
-  color: #00ff88 !important;
+  color: #27aee8 !important;
 }
 
 .nav-link {
@@ -30,7 +30,7 @@ body {
 }
 
 .nav-link:hover {
-  color: #00ff88 !important;
+  color: #27aee8 !important;
   transform: translateY(-2px);
 }
 
@@ -39,8 +39,8 @@ body {
   font-size: 2.8rem;
   font-weight: bold;
   margin-bottom: 25px;
-  color: #00ff88;
-  text-shadow: 0 0 10px rgba(0,255,136,0.4);
+  color: #27aee8;
+  text-shadow: 0 0 10px rgba(14, 158, 230, 0.4);
 }
 
 img {
@@ -51,4 +51,18 @@ img {
 
 img:hover {
   transform: scale(1.05);
+}
+
+.blog-subtitle {
+  font-size: 1.5rem;
+  color: #27aee8;
+  margin-top: 20px;
+  text-shadow: 0 0 5px rgba(14, 158, 230, 0.4);
+  font-family: dubai;
+}
+
+#quarto-header {
+  background: linear-gradient(90deg, #6e371f, #634429);
+  border-bottom: 2px solid #27aee8;
+  box-shadow: 0 0 15px rgba(14, 158, 230, 0.4);
 }
