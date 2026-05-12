@@ -1,5 +1,5 @@
-# Algorithmrs (**Discontinuous to later report**)
-Blog about algorithms and data structures , Specially in Data science and Web.
+# Algorithmrs
+Blog about algorithms and data structures , Specially in Data science and General-Purpose Programming .
 
 ## Goal
 
