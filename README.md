@@ -12,18 +12,20 @@ The blog focuses on enhancing algorithm skills and reviewing data structures for
 ## Articles
 
 - Data Structures
+- Asymptotic Analysis
 - Basic Algorithms (Sorting - Searching - Adding)
 - Search Algorithms (BFS-DFS-Dijkstra)
 - Games Algorithms (MINMAX-Z Score)
 - Machine Learning Algorithms (Classification-Regression-Clustring)
 - Draw Algorithms (DDA-Bresenham)
-- OS Algorithms (Bankers)
+- OS Algorithms
+- Graph Theory
 - and others...
 
 ## Project structure
 - R/Quarto : Front end Built with R language and Quarto library a web static html/css files generator , With simple bootstrap templates.
 - CSS : Using to styling website.
-- Java : Using to Building algorithms and example , Also used in back end later
+- Java : Using to Building algorithms and examples , Also used in back end later
 - Python : Like Java , For examples and back-end development
 
 ### Credits
