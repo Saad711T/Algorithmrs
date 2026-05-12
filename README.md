@@ -6,7 +6,9 @@ Blog about algorithms and data structures , Specially in Data science and Web.
 The blog focuses on enhancing algorithm skills and reviewing data structures for programmers and data scientists, and is a further extension of the previous [SaadAIBlog](https://saadaiblog.netlify.app/).
 
 <a href="https://saadaiblog.netlify.app">
+  
 < img src="https://avatars.githubusercontent.com/u/256197769?s=400&u=440badbb63cca1356bcb969ac37138d23dba31b4&v=4" width="350px" />
+
 </a>
 
 ## Articles
