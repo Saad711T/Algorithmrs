@@ -2,7 +2,6 @@
 Blog about algorithms and data structures , Specially in Data science and General-Purpose Programming .
 
 ## Goal
-
 The blog focuses on enhancing algorithm skills and reviewing data structures for programmers and data scientists, and is a further extension of the previous [SaadAIBlog](https://saadaiblog.netlify.app/).
 
 <a href="https://saadaiblog.netlify.app">
@@ -10,7 +9,6 @@ The blog focuses on enhancing algorithm skills and reviewing data structures for
 </a>
 
 ## Articles
-
 - Data Structures
 - Asymptotic Analysis
 - Basic Algorithms (Sorting - Searching - Adding)
