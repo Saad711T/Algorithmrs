@@ -2,6 +2,9 @@
 using namespace std;
 
 
+
+
+
 int main() {
 
 for(i=0;i<n;i++) {// c1
@@ -9,5 +12,10 @@ for(i=0;i<n;i++) {// c1
 }
 
 
+
+
     return 0;
+
+
+    
 }
