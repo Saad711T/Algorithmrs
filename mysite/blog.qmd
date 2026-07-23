@@ -28,7 +28,7 @@ title: "Blog"
 هو نوع من أنواع التحليل الرياضي لمعرفة مدى استمرارية الخوارزميات ووقتها لتقييم سلوكها .
 
 
-<img src="img/input-size.png" width="500px" />
+<img src="img/inputsize.png" width="500px" />
 
 <br>
 
