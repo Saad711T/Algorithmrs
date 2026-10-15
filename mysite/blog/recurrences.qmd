@@ -148,6 +148,10 @@ void printHello(int n) {
 
 ![مثال 2](img/master2.png)
 
+##### للمزيد
+[أضغط هنا لتحميل شابتر إضافي عن الاستدعاءات الثنائية](files/ch1-algorithms.pdf)
+
+
 ## مصادر ومراجع
 - [Programiz - Python Programming , Recursion](https://www.programiz.com/python-programming/recursion)
 - Analysis and design of algorithms , Taif University
