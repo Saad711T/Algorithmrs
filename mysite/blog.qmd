@@ -63,7 +63,7 @@ title: "Blog"
 
 <br>
 
-[أكمل القراءة](blog/ds1.qmd)
+[أكمل القراءة](blog/languages.qmd)
 
 <hr>
 
